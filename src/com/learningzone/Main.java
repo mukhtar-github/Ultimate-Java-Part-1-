@@ -8,12 +8,12 @@
 //it has a Java runtime environment and a bunch of other stuff. Head over to oracle.com to download Java SE which is
 //short for 'Java Standard Edition'. Now the next piece of software we need is a code editor. There are so many code
 //editors for building Java applications. The popular one are Netbeans, Eclipse and IntelliJ. In this Java course I'm
-//going to use IntelliJ
+//going to use IntelliJ.
 
 
 // 2- Anatomy of a Java Program
 
-//
+//In this Java tutorial, we're going to look at the anatomy of Java programs.
 
 
 
