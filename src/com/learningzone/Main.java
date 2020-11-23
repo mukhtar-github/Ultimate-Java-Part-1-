@@ -37,7 +37,12 @@
 //For example, our sendEmail function should have parameters like,who's the receiver, what is the subject of this email,
 //what is the content of this email and so on. Now in this tutorial we're not going to worry obout parameters. We'll
 //look at them in the future. Now after the parenthesis, we add a pair of curly braces, and inside these braces we write
-//the actual Java code.
+//the actual Java code. Now, one thing I want you to pay attention to here is that in Java, we put the left brace on the
+//same line where we define our function. In other programming languages like C#, it's more conventional to put the left
+//brace on a new line. But we don't do that in Java. Now, every Java program should have at least one function, and that
+//function is called 'main'. So, main is the entry point to our programs. Whenever we execute a Java program, the main
+//function gets called and the code inside this function gets executed. Now these functions don't exist on their own,
+//they should always belong to a class.
 
 
 
