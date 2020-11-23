@@ -13,7 +13,11 @@
 
 // 2- Anatomy of a Java Program
 
-//In this Java tutorial, we're going to look at the anatomy of Java programs.
+//In this Java tutorial, we're going to look at the anatomy of Java programs. The smallest building block in Java
+//programs are functions. A function is a block of code that performs a task. As a metaphor, think of the buttons on the
+//remote control of your TV. Each button performs a task. Functions in programming languages are exactly the same. For
+//example, we can have a function for sending emails to people, we have a function for converting someone's weight in
+//pounds to kilograms
 
 
 
