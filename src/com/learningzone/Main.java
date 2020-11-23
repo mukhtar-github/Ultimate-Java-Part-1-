@@ -17,7 +17,23 @@
 //programs are functions. A function is a block of code that performs a task. As a metaphor, think of the buttons on the
 //remote control of your TV. Each button performs a task. Functions in programming languages are exactly the same. For
 //example, we can have a function for sending emails to people, we have a function for converting someone's weight in
-//pounds to kilograms
+//pounds to kilograms. We can have a function for validating users input and so on.
+//Now let's see how we can code a function in Java. We start by specifying the return type of the function:
+//ReturnType Name() {
+//  ...
+//}
+//Some functions return a value like a number, a day time, and so on. Other functions don't return anything. So the
+//return of these functions is Void.
+//void Name() {
+//  ...
+//}
+//Void is a reserve keyword in Java, and that's why I've coded it in blue. Now after the return type, we have the Name
+//of our function. So here we should give our function a proper descriptive name, like sendEmail.
+//void sendEmail()
+//  ...
+//}
+//This name clearly identifies the purpose of this function.Now after the name we have a pair of parenthesis, and inside
+//these parenthesis we
 
 
 
