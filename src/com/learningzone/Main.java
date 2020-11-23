@@ -33,7 +33,11 @@
 //  ...
 //}
 //This name clearly identifies the purpose of this function.Now after the name we have a pair of parenthesis, and inside
-//these parenthesis we
+//these parenthesis we add the parameters for this function. We use these parameters to pass values to our function.
+//For example, our sendEmail function should have parameters like,who's the receiver, what is the subject of this email,
+//what is the content of this email and so on. Now in this tutorial we're not going to worry obout parameters. We'll
+//look at them in the future. Now after the parenthesis, we add a pair of curly braces, and inside these braces we write
+//the actual Java code.
 
 
 
