@@ -42,7 +42,7 @@
 //brace on a new line. But we don't do that in Java. Now, every Java program should have at least one function, and that
 //function is called 'main'. So, main is the entry point to our programs. Whenever we execute a Java program, the main
 //function gets called and the code inside this function gets executed. Now these functions don't exist on their own,
-//they should always belong to a class.
+//they should always belong to a class. So a class is a container for one or more related functions.
 
 
 
