@@ -54,13 +54,26 @@
 //keyword that determines if other classes and methods in this program can access these classes and methods. We have
 //various access modifiers like public, private and so on. Most of the time we use the public access modifier, so we put
 //that in front of our class and method declarations. So this is the basic structure of a Java program. At a minimum we
-//have a main class, and inside this main class we have the main method. You might be curious why we have a capital M in
-//the name of this class. Because in Java we use different conventions for naming our classes and our methods. To name
-//our classes, we use the PascalNamingConvention. And that basically means the first letter of every word should be
-//uppercase. In contrast, to name our methods, we use the camel naming convention and that means the first letter of
-//every word should be uppercase except the first word. So that is why we a capital M in the name of this class. 
+//have a Main class, and inside this main class we have the main method.
+//public class Main {
+//  public void main() {
+//      ...
+//  }
+//}
+// You might be curious why we have a capital M in the name of this class. Because in Java we use different conventions
+//for naming our classes and our methods. To name our classes, we use the PascalNamingConvention. And that basically
+//means the first letter of every word should be uppercase. In contrast, to name our methods, we use the camel naming
+//convention and that means the first letter of every word should be uppercase except the first word. So that is why we
+//a capital M in the name of this class.
 
 
+// 3- Your First Java Program
+
+//In this Java tutorial, you're going to learn how to write and execute your first Java program. So let's open up
+//IntelliJ IDEA. Here in the home screen, let's create a new project. On the left side, select Java and make sure
+//project SDK is not blank. Earlier we downloaded JDK or Java Development Kit, the latest version. So the latest version
+//is selected in the drop down. Now let's click on next. On this page select create project from template. So we're
+//going to create a command line application, which is an application that we can run from the command line.
 
 
 package com.learningzone;
