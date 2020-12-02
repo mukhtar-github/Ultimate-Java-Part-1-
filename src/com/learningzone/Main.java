@@ -43,7 +43,10 @@
 //function is called 'main'. So, main is the entry point to our programs. Whenever we execute a Java program, the main
 //function gets called and the code inside this function gets executed. Now these functions don't exist on their own,
 //they should always belong to a class. So a class is a container for one or more related functions. Basically we use
-//these classes to organize our code. Just like how we products are organized in a super market.
+//these classes to organize our code. Just like how products are organized in a super market. Each section contains
+//related products. By the same token a class in Java contains related functions. Now every Java program should have
+//at least one class that contains the main function. So this is how we define a class in Java. We start with a class
+//keyword
 
 
 
