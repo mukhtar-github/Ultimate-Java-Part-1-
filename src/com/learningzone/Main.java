@@ -52,7 +52,12 @@
 //exist outside of a class. So we call it a function. But when a function belongs to a class, we refer to it as method
 //of that class. In Java, all these classes and methods, should have an Access Modifier. An Access Modifier is a special
 //keyword that determines if other classes and methods in this program can access these classes and methods. We have
-//various access modifiers like public, private and so on.
+//various access modifiers like public, private and so on. Most of the time we use the public access modifier, so we put
+//that in front of our class and method declarations. So this is the basic structure of a Java program. At a minimum we
+//have a main class, and inside this main class we have the main method. You might be curious why we have a capital M in
+//the name of this class. Because in Java we use different conventions for naming our classes and our methods. To name
+//our classes, we use the PascalNamingConvention. And that basically means the first letter of every word should be
+//uppercase.
 
 
 
