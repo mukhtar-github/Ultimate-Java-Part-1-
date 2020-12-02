@@ -50,7 +50,9 @@
 //that we define in between this curly braces belong to this class. And more accurately, we refer to them as methods. So
 //a method is a function that is part of a class. In some programming languages like Python, we can have a function that
 //exist outside of a class. So we call it a function. But when a function belongs to a class, we refer to it as method
-//of that class.
+//of that class. In Java, all these classes and methods, should have an Access Modifier. An Access Modifier is a special
+//keyword that determines if other classes and methods in this program can access these classes and methods. We have
+//various access modifiers like public, private and so on.
 
 
 
