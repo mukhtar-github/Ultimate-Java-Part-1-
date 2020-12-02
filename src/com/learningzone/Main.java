@@ -57,7 +57,8 @@
 //have a main class, and inside this main class we have the main method. You might be curious why we have a capital M in
 //the name of this class. Because in Java we use different conventions for naming our classes and our methods. To name
 //our classes, we use the PascalNamingConvention. And that basically means the first letter of every word should be
-//uppercase.
+//uppercase. In contrast, to name our methods, we use the camel naming convention and that means the first letter of
+//every word should be uppercase except the first word. So that is why we a capital M in the name of this class. 
 
 
 
