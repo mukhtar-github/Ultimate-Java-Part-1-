@@ -46,7 +46,11 @@
 //these classes to organize our code. Just like how products are organized in a super market. Each section contains
 //related products. By the same token a class in Java contains related functions. Now every Java program should have
 //at least one class that contains the main function. So this is how we define a class in Java. We start with a class
-//keyword
+//keyword, then we give our class a proper descriptive name, and then we add a pair of curly braces. Now the functions
+//that we define in between this curly braces belong to this class. And more accurately, we refer to them as methods. So
+//a method is a function that is part of a class. In some programming languages like Python, we can have a function that
+//exist outside of a class. So we call it a function. But when a function belongs to a class, we refer to it as method
+//of that class.
 
 
 
