@@ -73,7 +73,10 @@
 //IntelliJ IDEA. Here in the home screen, let's create a new project. On the left side, select Java and make sure
 //project SDK is not blank. Earlier we downloaded JDK or Java Development Kit, the latest version. So the latest version
 //is selected in the drop down. Now let's click on next. On this page select create project from template. So we're
-//going to create a command line application, which is an application that we can run from the command line.
+//going to create a command line application, which is an application that we can run from the command line. It doesn't
+//have a graphical user interface or GUI. Now, I know a command line application is not as exciting as an application
+//with a graphical user interface, like mobile app or a desktop app. But trust me, building an app with a graphical user
+//user interface is very complicated
 
 
 package com.learningzone;
