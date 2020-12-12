@@ -79,7 +79,10 @@
 //user interface is very complicated. So for now, we're just going to build a command line applications to learn Java
 //properly. Once you learn Java properly, then you can learn about building desktop or mobile applications with Java.
 //Alright, now lets click on next. On this page we have to give our project a name, let's call it 'HelloWorld'. Now, you
-//can see the location of this project, so it's inside the idea projects
+//can see the location of this project, so it's inside the idea projects folder. Now right below that you can see the
+//base package which is set to com.code-with-mosh on my machine. On your machine it's probably going to be com.package.
+//What is this? Well, earlier we talked about Classes and Methods. I told you that a Class is a container for related
+//Methods. So, we use classes to organize our code.
 
 
 package com.learningzone;
