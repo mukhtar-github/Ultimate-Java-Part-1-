@@ -76,7 +76,10 @@
 //going to create a command line application, which is an application that we can run from the command line. It doesn't
 //have a graphical user interface or GUI. Now, I know a command line application is not as exciting as an application
 //with a graphical user interface, like mobile app or a desktop app. But trust me, building an app with a graphical user
-//user interface is very complicated
+//user interface is very complicated. So for now, we're just going to build a command line applications to learn Java
+//properly. Once you learn Java properly, then you can learn about building desktop or mobile applications with Java.
+//Alright, now lets click on next. On this page we have to give our project a name, let's call it 'HelloWorld'. Now, you
+//can see the location of this project, so it's inside the idea projects
 
 
 package com.learningzone;
