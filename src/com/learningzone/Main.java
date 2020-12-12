@@ -82,7 +82,16 @@
 //can see the location of this project, so it's inside the idea projects folder. Now right below that you can see the
 //base package which is set to com.code-with-mosh on my machine. On your machine it's probably going to be com.package.
 //What is this? Well, earlier we talked about Classes and Methods. I told you that a Class is a container for related
-//Methods. So, we use classes to organize our code.
+//Methods. So, we use classes to organize our code. By the same token, we have a concept called Package, and we use the
+//Package to group related Classes. So, as our applications grow, we're going to end up with hundreds or even thousands
+//of classes. So, we should properly organize these Classes into Packages. Now by convention, the base Package for a
+//Java project is the domain name of your company in reverse. So my website is code-with-mosh.com, that is why I'm going
+//to set the base package for this project to com.code-with-mosh. Now it doesn't mean that you should have an actual
+//domain registered on the internet, this is just a way to create a namespace for our Classes. So now every class that
+//you create in this project will belong to this package. We're going to talk about packages in more detail in the
+//future. So for now, just type a base package for your project. It can be com.your-name or whatever, it doesn't really
+//matter. Alright, now let's go forward, alright here is our first Java project. Now this code editor might look a little
+//intimidating at first, but trust me, it's really easy, and you are going to learn about it through out this course.
 
 
 package com.learningzone;
