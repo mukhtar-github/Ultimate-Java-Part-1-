@@ -107,7 +107,7 @@
 //should always be static. The return type of this method is void, which means this method is not going to return a
 //value. And here in parenthesis, we have one parameter for this function. We can use these parameters to pass values to
 //our program. Again, we'll look at this in the future. Now, right after these parenthesis, you can see the left brace,
-//and this is where you write the code in this method.
+//and this is where you write the code in this method. So, here we're going to use the System class in Java
 
 
 package com.learningzone;
