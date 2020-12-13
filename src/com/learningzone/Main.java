@@ -104,7 +104,10 @@
 //tutorial. So, we have Public, Class, Main, with a pair of curly braces. Inside this class, we have our Main method. So
 //it's a public method which means, it's accessible from other parts of this Program. It's static, we haven't talked
 //about static methods yet. We'll talk about them in future, for now just remember that the main method in your program
-//should always be static.
+//should always be static. The return type of this method is void, which means this method is not going to return a
+//value. And here in parenthesis, we have one parameter for this function. We can use these parameters to pass values to
+//our program. Again, we'll look at this in the future. Now, right after these parenthesis, you can see the left brace,
+//and this is where you write the code in this method.
 
 
 package com.learningzone;
