@@ -91,7 +91,12 @@
 //you create in this project will belong to this package. We're going to talk about packages in more detail in the
 //future. So for now, just type a base package for your project. It can be com.your-name or whatever, it doesn't really
 //matter. Alright, now let's go forward, alright here is our first Java project. Now this code editor might look a little
-//intimidating at first, but trust me, it's really easy, and you are going to learn about it through out this course.
+//intimidating at first, but trust me, it's really easy, and you are going to learn about it through out this course. On
+//the left side we have the project panel, where we can see all the folders and files in our project. For example, on
+//the top we have a HelloWorld project. Inside this project we have the source folder, where we have the source code of
+//our project. Now in this folder, we have another folder that is com.code-with-mosh. That is the name of our base
+//package, and in this package we have the Main Class. So, you can see this Main file, opened on the right side here.
+//Now, look at the name of this file, in 'Main.java'
 
 
 package com.learningzone;
