@@ -96,7 +96,15 @@
 //the top we have a HelloWorld project. Inside this project we have the source folder, where we have the source code of
 //our project. Now in this folder, we have another folder that is com.code-with-mosh. That is the name of our base
 //package, and in this package we have the Main Class. So, you can see this Main file, opened on the right side here.
-//Now, look at the name of this file, in 'Main.java'
+//Now, look at the name of this file, is 'Main.java'. So, all Java files should have the Java extension. So, see what we
+//have here, on top of this file, we the package statement. And this is used to specify what Package this Class belongs
+//to. So, the Main class that we have here, belongs to this Package. Now, this package statement is terminated by a semi
+//colon. So in Java, where ever we have a statement, we should terminate that statement with a semicolon. This is exactly
+//like C# or C++. Now, below this Package statement, we have our Main Class, exactly like what you saw in the previous
+//tutorial. So, we have Public, Class, Main, with a pair of curly braces. Inside this class, we have our Main method. So
+//it's a public method which means, it's accessible from other parts of this Program. It's static, we haven't talked
+//about static methods yet. We'll talk about them in future, for now just remember that the main method in your program
+//should always be static.
 
 
 package com.learningzone;
