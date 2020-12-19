@@ -137,7 +137,22 @@
 
 // 4- How Java Code Gets Executed
 
-//
+//Alright, now let's see what's exactly happens under the hood, the moment we run a Java program in intelliJ. There are
+//basically two steps involved here; Compilation and Execution. In the Compilation step, intelliJ uses the Java compiler,
+//to compile our code into a different format called 'Java Byte Code'. This Java compiler comes with the Java development
+//Kit that we downloaded at the beginning of the course. Let me show you, so here we can right click on the Main.java,
+//and in the context menu, we have an item called 'Open In Terminal'. So let's open that, we get this Terminal window or
+//command prompt on windows. Here, we're currently inside the '/IdeaProjects/HelloWorld/src/com/learningzone$' folder,
+//that is where we have our Main.java file. Now we can invoke the 
+
+package com.learningzone;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
 
 
 
