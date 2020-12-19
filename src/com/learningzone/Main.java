@@ -148,8 +148,11 @@
 //because these operating systems are case sensitive. So press enter. Now let's at the contents of this folder, on Mac
 //or Linux we can type 'ls', on windows we type 'dir'. So, let's take a look. In this folder, now we have a new file
 //'Main.class', this is the 'Byte Code' representation of the Main.java file. Now, let me use intelliJ to run our Java
-//program. The Main.class file get stored somewhere else. Let me show you. So back to the project panel, carrying on
-//project
+//program. The Main.class file get stored somewhere else. Let me show you. So back to the project panel, here in our
+//project, we have this 'src' folder where we have our source code, and we have this 'out' folder, where we have the
+//result of the compilation. So, inside the folder, we have 'production', inside it we have 'HelloWorld', the same name
+//as our project. Inside 'HelloWorld' we have 'com' which is the name of our top label package. Inside this package we
+//have a sub package that is 'learningzone'. And lastly, we have our Main.class file.
 
 
 
