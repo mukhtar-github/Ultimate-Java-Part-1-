@@ -848,46 +848,46 @@
 //Now the moment we read the 'annualInterest', we validate the data with an 'if' statement. We should also calculate the
 //monthly interest and finally, we break out of the infinite loop as written in the code.
 
-package com.learningzone;
-
-import java.text.NumberFormat;
-import java.util.Scanner;
-
-public class Main {
-
-    public static void main(String[] args) {
-        final byte MONTHS_IN_YEAR = 12;
-        final byte PERCENT = 100;
-
-        int principal;
-        float monthlyInterest;
-
-        Scanner scanner = new Scanner(System.in);
-        while (true) {
-            System.out.println("Principal: ");
-            principal = scanner.nextInt();
-            if (principal >= 1000 && principal <= 1_000_000)
-                break;
-            System.out.println("Enter a value between 1000 and 1000000");
-        }
-        while (true) {
-            System.out.println("Annual Interest Rate: ");
-            float annualInterest = scanner.nextFloat();
-            if (annualInterest >= 1 && annualInterest <= 30) {
-                monthlyInterest = annualInterest / PERCENT / MONTHS_IN_YEAR;
-                break;
-            }
-        }
-
-        System.out.println("Period (Years): ");
-        byte years = scanner.nextByte();
-        int numberOfPayments = years * MONTHS_IN_YEAR;
-
-        double mortgage = principal
-                * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments))
-                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1);
-
-        String mortgageFormatted = NumberFormat.getCurrencyInstance().format(mortgage);
-        System.out.println("mortgage: "  + mortgageFormatted);
-    }
-}
+//package com.learningzone;
+//
+//import java.text.NumberFormat;
+//import java.util.Scanner;
+//
+//public class Main {
+//
+//    public static void main(String[] args) {
+//        final byte MONTHS_IN_YEAR = 12;
+//        final byte PERCENT = 100;
+//
+//        int principal;
+//        float monthlyInterest;
+//
+//        Scanner scanner = new Scanner(System.in);
+//        while (true) {
+//            System.out.println("Principal: ");
+//            principal = scanner.nextInt();
+//            if (principal >= 1000 && principal <= 1_000_000)
+//                break;
+//            System.out.println("Enter a value between 1000 and 1000000");
+//        }
+//        while (true) {
+//            System.out.println("Annual Interest Rate: ");
+//            float annualInterest = scanner.nextFloat();
+//            if (annualInterest >= 1 && annualInterest <= 30) {
+//                monthlyInterest = annualInterest / PERCENT / MONTHS_IN_YEAR;
+//                break;
+//            }
+//        }
+//
+//        System.out.println("Period (Years): ");
+//        byte years = scanner.nextByte();
+//        int numberOfPayments = years * MONTHS_IN_YEAR;
+//
+//        double mortgage = principal
+//                * (monthlyInterest * Math.pow(1 + monthlyInterest, numberOfPayments))
+//                / (Math.pow(1 + monthlyInterest, numberOfPayments) - 1);
+//
+//        String mortgageFormatted = NumberFormat.getCurrencyInstance().format(mortgage);
+//        System.out.println("mortgage: "  + mortgageFormatted);
+//    }
+//}
