@@ -116,17 +116,29 @@
 //and you can see that on the right side of the tooltip, that is 'PrintStream'. So PrintStream is another class that is
 //defined in java. So once again we use the dot operator to look at the methods or members defined in the print string
 //class. The method we're going to use is 'printLn' which is short for line. Look at the icon of this method, so 'm'
-//indicates a method. So now with the code on line 127, we're calling or executing the print line method.
+//indicates a method. So now with the code on line 127, we're calling or executing the print line method. Earlier I told
+//you that inside these parenthesis, we can pass values to our methods. Here we want to print the 'Hello World' message
+//on the terminal. So let's type double quotes and inside these quotes we writE 'Hello World'. So 'Hello World' is
+//textual data. In Java, whenever we deal with textual data, we should always surround them with double quotes. Now we
+//say we have a string. So a string is a sequence of characters. Alright, so we're done with our first program. Now to
+//execute this, we can click on the play icon on the tool bar. Now intelliJ is building our application and we can see
+//the result in the little terminal window.
 
 
-package com.learningzone;
+//package com.learningzone;
+//
+//public class Main {
+//
+//    public static void main(String[] args) {
+//	    System.out.println("Hello World");
+//    }
+//}
 
-public class Main {
 
-    public static void main(String[] args) {
-	    System.out.println();
-    }
-}
+// 4- How Java Code Gets Executed
+
+//
+
 
 
 // 1-GETTING STARTED
