@@ -4,7 +4,7 @@
 
 //In this Java tutorial, we're going to download and install the necessary tools to build Java applications. So open up
 //your browser and search for JDK download. JDK is short for Java Development Kit, and it's basically software
-//development environment for building Java applications. It has a compiler, it ahs a bunch of code that we could reuse,
+//development environment for building Java applications. It has a compiler, it has a bunch of code that we could reuse,
 //it has a Java runtime environment and a bunch of other stuff. Head over to oracle.com to download Java SE which is
 //short for 'Java Standard Edition'. Now the next piece of software we need is a code editor. There are so many code
 //editors for building Java applications. The popular one are Netbeans, Eclipse and IntelliJ. In this Java course I'm
@@ -143,7 +143,15 @@
 //Kit that we downloaded at the beginning of the course. Let me show you, so here we can right click on the Main.java,
 //and in the context menu, we have an item called 'Open In Terminal'. So let's open that, we get this Terminal window or
 //command prompt on windows. Here, we're currently inside the '/IdeaProjects/HelloWorld/src/com/learningzone$' folder,
-//that is where we have our Main.java file. Now we can invoke the 
+//that is where we have our Main.java file. Now we can invoke the Java compiler like this 'javac' and pass the name of
+//our Jav file as an argument, so Main.java. If you're on Mac or Linux, make sure to spell the Main with a capital 'M',
+//because these operating systems are case sensitive. So press enter. Now let's at the contents of this folder, on Mac
+//or Linux we can type 'ls', on windows we type 'dir'. So, let's take a look. In this folder, now we have a new file
+//'Main.class', this is the 'Byte Code' representation of the Main.java file. Now, let me use intelliJ to run our Java
+//program. The Main.class file get stored somewhere else. Let me show you. So back to the project panel, carrying on
+//project
+
+
 
 package com.learningzone;
 
