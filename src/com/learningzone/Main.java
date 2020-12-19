@@ -107,17 +107,26 @@
 //should always be static. The return type of this method is void, which means this method is not going to return a
 //value. And here in parenthesis, we have one parameter for this function. We can use these parameters to pass values to
 //our program. Again, we'll look at this in the future. Now, right after these parenthesis, you can see the left brace,
-//and this is where you write the code in this method. So, here we're going to use the System class in Java
+//and this is where you write the code in this method. So, here we're going to use the System class in Java, so System,
+//in the tooltip, you can see the System class is defined in this package, java.lang or language. Also, look at the icon
+//on the left side of the tooltip, it indicates a class. Inside this class we have various members, we can use the dot(.)
+//operator to see the members defined in the System class. Now the member that we're going to access is 'out'. Look at
+//the at the icon of this member. It's 'f', which is short for field. We're going to talk about fields in the future when
+//when we talk about classes and object oriented programming. Now, what is interesting here is the type of this field,
+//and you can see that on the right side of the tooltip, that is 'PrintStream'. So PrintStream is another class that is
+//defined in java. So once again we use the dot operator to look at the methods or members defined in the print string
+//class. The method we're going to use is 'printLn' which is short for line. Look at the icon of this method, so 'm'
+//indicates a method. So now with the code on line 127, we're calling or executing the print line method.
 
 
-//package com.learningzone;
-//
-//public class Main {
-//
-//    public static void main(String[] args) {
-//	// write your code here
-//    }
-//}
+package com.learningzone;
+
+public class Main {
+
+    public static void main(String[] args) {
+	    System.out.println();
+    }
+}
 
 
 // 1-GETTING STARTED
@@ -178,7 +187,7 @@
 //
 //    public static void main(String[] args) {
 //        Point point1 = new Point(1,1);
-//        Point point2 = poin1;
+//        Point point2 = point1;
 //        point1.x = 2;
 //        System.out.println(point2); // => java.awt.Point[x=2,y=1]
 //    }
@@ -848,7 +857,7 @@
 //Now the moment we read the 'annualInterest', we validate the data with an 'if' statement. We should also calculate the
 //monthly interest and finally, we break out of the infinite loop as written in the code.
 
-//package com.learningzone;
+// package com.learningzone;
 //
 //import java.text.NumberFormat;
 //import java.util.Scanner;
