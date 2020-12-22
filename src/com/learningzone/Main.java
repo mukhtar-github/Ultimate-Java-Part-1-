@@ -140,7 +140,11 @@
 // result of the compilation. So, inside the folder, we have 'production', inside it we have 'HelloWorld', the same name
 // as our project. Inside 'HelloWorld' we have 'com' which is the name of our top label package. Inside this package we
 // have a sub package that is 'learningzone'. And lastly, we have our Main.class file. So this was the compilation step.
-// Now, this Java Byte code that
+// Now, this Java Byte code that we have in this file is platform independent, and that means it can run on Windows, Mac,
+// Linux or any operating systems that has a Java Runtime Environment (JRE). If you go to Java.com/download, we can
+// download Java or more accurately Java Runtime Environment for various operating systems. This Java Runtime Environment
+// has a Software component called 'Java Virtual Machine' or 'JVM'. This JVM takes a Java Byte Code and translate it to
+// the native code for the underlined operating system. So if you're on Windows machine, this Java
 
 
 package com.learningzone;
