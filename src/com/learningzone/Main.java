@@ -147,7 +147,12 @@
 // the native code for the underlined operating system. So if you're on Windows machine, this Java Virtual Machine converts
 // a Java Byte code into a the native code that Windows can understand. This architecture is the reason why Java
 // applications are portable or platform independent. We can write a Java program on a Windows machine and execute it on
-// Linux, Mac or any other operating systems that have a Java Runtime Environment.
+// Linux, Mac or any other operating systems that have a Java Runtime Environment. C# and Python also has the same
+// architecture, that's why they're platform independent as well. Now, let me show you how to invoke this Java Virtual
+// Machine to run a Java program. So back to the terminal window. Currently, we're inside of this folder 'learningzone',
+// and in this folder we have the 'Main class' file. Now let's go one level up, so 'cd ..' and one more time 'cd ..'. So
+// now we are inside the 'src' folder. We can invoke Java Virtual Machine like this; we type 'java' and the we type the
+// full path to our  'Main class' file. What do I mean by that, well
 
 
 package com.learningzone;
