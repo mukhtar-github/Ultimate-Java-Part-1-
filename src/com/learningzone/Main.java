@@ -152,7 +152,12 @@
 // Machine to run a Java program. So back to the terminal window. Currently, we're inside of this folder 'learningzone',
 // and in this folder we have the 'Main class' file. Now let's go one level up, so 'cd ..' and one more time 'cd ..'. So
 // now we are inside the 'src' folder. We can invoke Java Virtual Machine like this; we type 'java' and the we type the
-// full path to our  'Main class' file. What do I mean by that, well
+// full path to our  'Main class' file. What do I mean by that, well earlier we defined this package 'com.learningzone'
+// and the 'Main' class is part of this package. So the full path to this class is 'com.learningzone.Main', make sure to
+// use a capital 'M' for Main class, because it is case sensitive. Now when we press enter, Java will look at this folder
+// 'com', inside this folder, it look at this other folder 'learningzone', and then it will find 'Main.class' in that
+// folder. It will load the Byte code and convert it to the native code for the operating system we are using. So take a
+// look
 
 
 package com.learningzone;
