@@ -131,7 +131,7 @@
 // and in the context menu, we have an item called 'Open In Terminal'. So let's open that, we get this Terminal window or
 // command prompt on windows. Here, we're currently inside the '/IdeaProjects/HelloWorld/src/com/learningzone$' folder,
 // that is where we have our Main.java file. Now we can invoke the Java compiler like this 'javac' and pass the name of
-// our Jav file as an argument, so Main.java. If you're on Mac or Linux, make sure to spell the Main with a capital 'M',
+// our Java file as an argument, so Main.java. If you're on Mac or Linux, make sure to spell the Main with a capital 'M',
 // because these operating systems are case sensitive. So press enter. Now let's at the contents of this folder, on Mac
 // or Linux we can type 'ls', on windows we type 'dir'. So, let's take a look. In this folder, now we have a new file
 // 'Main.class', this is the 'Byte Code' representation of the Main.java file. Now, let me use intelliJ to run our Java
