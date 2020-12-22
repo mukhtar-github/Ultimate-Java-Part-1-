@@ -144,7 +144,10 @@
 // Linux or any operating systems that has a Java Runtime Environment (JRE). If you go to Java.com/download, we can
 // download Java or more accurately Java Runtime Environment for various operating systems. This Java Runtime Environment
 // has a Software component called 'Java Virtual Machine' or 'JVM'. This JVM takes a Java Byte Code and translate it to
-// the native code for the underlined operating system. So if you're on Windows machine, this Java
+// the native code for the underlined operating system. So if you're on Windows machine, this Java Virtual Machine converts
+// a Java Byte code into a the native code that Windows can understand. This architecture is the reason why Java
+// applications are portable or platform independent. We can write a Java program on a Windows machine and execute it on
+// Linux, Mac or any other operating systems that have a Java Runtime Environment.
 
 
 package com.learningzone;
