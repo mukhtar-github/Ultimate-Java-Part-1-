@@ -172,6 +172,10 @@
 
 // 5- 5 Interesting Facts about Java
 //
+// So you have seen Java in action, now let me tell you 5 interesting facts about Java. Java was developed by James Gosling
+// in 1995 at Sun Microsystems, which was later acquired by Oracle in 2010. It was originally called 'Oak' after an Oak
+// tree that stood outside Gosling's office. Later, it was renamed to Green, and was finally renamed to Java, inspired by
+// Java coffee. That's why it's logo looks like that.
 
 
 // 1-GETTING STARTED
