@@ -171,7 +171,7 @@
 
 
 // 5- 5 Interesting Facts about Java
-//
+
 // So you have seen Java in action, now let me tell you 5 interesting facts about Java. Java was developed by James Gosling
 // in 1995 at Sun Microsystems, which was later acquired by Oracle in 2010. It was originally called 'Oak' after an Oak
 // tree that stood outside Gosling's office. Later, it was renamed to Green, and was finally renamed to Java, inspired by
@@ -179,7 +179,18 @@
 // applications. We have Java Standard edition, this is the core Java platform which is what we are using in this course.
 // It contains all of the libraries that every Java developer must learn. You have Java Enterprise edition, which is used
 // for building very large scale and distributed systems. It's built on top of Java Standard edition, and provides
-// additional libraries for building fault tolerant distributed multitude software
+// additional libraries for building fault tolerant distributed multitude software. We have Java Micro edition which is
+// a subset of Java Standard edition, designed for Mobile devices. So it has libraries specific to mobile devices. And
+// finally we have Java Card which is used in Smart cards. The latest version of Java during the time of this tutorial
+// was Java Standard Edition 12, which was released in March 2019. Java has close to 9 million developers worldwide.
+// Currently about 3 billion mobile phones run Java as well as 120 million TV sets and every blue ray player. According
+// to indeed.com, the average salary of a Java developer is just over $100,000 per year in the US. So as you can see Java
+// is every where, which means more opportunities for you to get hired as a professional programmer.
+
+
+// 6- Course Structure
+
+//
 
 
 // 1-GETTING STARTED
