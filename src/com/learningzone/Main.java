@@ -157,18 +157,21 @@
 // use a capital 'M' for Main class, because it is case sensitive. Now when we press enter, Java will look at this folder
 // 'com', inside this folder, it look at this other folder 'learningzone', and then it will find 'Main.class' in that
 // folder. It will load the Byte code and convert it to the native code for the operating system we are using. So take a
-// look
+// look, it executed our program 'Hello World' beautiful. When we run a program using intelliJ, all these steps are hidden
+// from us, we don't see the compilation or the execution steps.
+
+//package com.learningzone;
+//
+//public class Main {
+//
+//    public static void main(String[] args) {
+//        System.out.println("Hello World");
+//    }
+//}
 
 
-package com.learningzone;
-
-public class Main {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-
+// 5- 5 Interesting Facts about Java
+//
 
 
 // 1-GETTING STARTED
