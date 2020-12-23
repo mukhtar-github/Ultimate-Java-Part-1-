@@ -175,7 +175,11 @@
 // So you have seen Java in action, now let me tell you 5 interesting facts about Java. Java was developed by James Gosling
 // in 1995 at Sun Microsystems, which was later acquired by Oracle in 2010. It was originally called 'Oak' after an Oak
 // tree that stood outside Gosling's office. Later, it was renamed to Green, and was finally renamed to Java, inspired by
-// Java coffee. That's why it's logo looks like that.
+// Java coffee. That's why it's logo looks like that. We have four editions of Java for building different kinds of
+// applications. We have Java Standard edition, this is the core Java platform which is what we are using in this course.
+// It contains all of the libraries that every Java developer must learn. You have Java Enterprise edition, which is used
+// for building very large scale and distributed systems. It's built on top of Java Standard edition, and provides
+// additional libraries for building fault tolerant distributed multitude software
 
 
 // 1-GETTING STARTED
