@@ -190,7 +190,11 @@
 
 // 6- Course Structure
 
-//
+// Now, let me give you a quick overview of how I've structured this course, so you can get the most out of it. This
+// course is the first part of my complete 4 part Java series. Each part is about 3 to 4 hours long, so you can easily
+// complete it in a day or two. In the first part, which is what you're watching, you're going to learn the fundamentals
+// of programming with Java. In the next section you'll learn about the type system of Java, you'll learn how to work
+// with various types
 
 
 // 1-GETTING STARTED
