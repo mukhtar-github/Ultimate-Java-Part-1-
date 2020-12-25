@@ -194,7 +194,16 @@
 // course is the first part of my complete 4 part Java series. Each part is about 3 to 4 hours long, so you can easily
 // complete it in a day or two. In the first part, which is what you're watching, you're going to learn the fundamentals
 // of programming with Java. In the next section you'll learn about the type system of Java, you'll learn how to work
-// with various types
+// with various types such as numbers, strings, booleans and arrays. By the end of this section, you'll build a Mortgage
+// Calculator as your first Java project. We'll be improving this calculator bit by bit throughout this course. Next you
+// will learn about control flow statements that are used to build algorithms. We'll talking about various types of
+// conditional statements and loops. Later in this section we'll add data validation to our mortgage calculator, to force
+// the user to enter valid values. At this point you'll be able to build basic algorithms, and that's great! But being a
+// good programmer requires knowing how to write good code. Code that is clean, and expressive. That's what separates an
+// outstanding programmer from an average programmer. So in the following section, we'll talk about clean coding, I will
+// show you various techniques that professional programmers use to make their code clean and maintainable. And finally
+// in the last section, you'll learn how to find and fix errors in your Java programs, as well as how to package them
+// for deployment so others can use them.
 
 
 // 1-GETTING STARTED
