@@ -207,7 +207,9 @@
 // start programming in Java. In the second part we'll talk about object oriented programming which is a style of
 // programming used in most if not all Java applications. Whether you want to use Java to build web, mobile, and desktop
 // applications, you need to understand object oriented programming well, otherwise, you're going to constantly hit
-// obstacles. 
+// obstacles. In the third part we're going to talk about core Java API's or applications programming interfaces. You'll
+// learn about many of the useful classes in the standard Java library. And finally in the last part, we'll be looking
+// at the advanced features in Java, such as streams, threads, database programming and so on. 
 
 
 
