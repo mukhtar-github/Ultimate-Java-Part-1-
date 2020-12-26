@@ -203,7 +203,23 @@
 // outstanding programmer from an average programmer. So in the following section, we'll talk about clean coding, I will
 // show you various techniques that professional programmers use to make their code clean and maintainable. And finally
 // in the last section, you'll learn how to find and fix errors in your Java programs, as well as how to package them
-// for deployment so others can use them.
+// for deployment so others can use them. So, the materials in the first part will give you a solid foundation on how to
+// start programming in Java. In the second part we'll talk about object oriented programming which is a style of
+// programming used in most if not all Java applications. Whether you want to use Java to build web, mobile, and desktop
+// applications, you need to understand object oriented programming well, otherwise, you're going to constantly hit
+// obstacles. 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 // 1-GETTING STARTED
