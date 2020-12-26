@@ -209,24 +209,25 @@
 // applications, you need to understand object oriented programming well, otherwise, you're going to constantly hit
 // obstacles. In the third part we're going to talk about core Java API's or applications programming interfaces. You'll
 // learn about many of the useful classes in the standard Java library. And finally in the last part, we'll be looking
-// at the advanced features in Java, such as streams, threads, database programming and so on. 
+// at the advanced features in Java, such as streams, threads, database programming and so on.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-// 1-GETTING STARTED
 
 // 2-TYPES
+
+// 1- Introduction
+
+// In this section we're going to look at the fundamentals of programming in Java. You're going to learn about variable
+// and constants, primitive and reference types, you're going to learn about casting and
+
+
+
+
+
+
+
+
+
+
 
 // 3- Primitive Types
 //package com.learningzone;
