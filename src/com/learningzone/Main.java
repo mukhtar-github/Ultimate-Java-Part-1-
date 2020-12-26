@@ -236,9 +236,20 @@
 
 // 2- Variables
 
-// In this tutorial, we're going to talk about 
+// In this tutorial, we're going to talk about variables in Java. We use variable to temporarily store data in a
+// computer's memory, here's an example. Imagine in this program, you want to store someone's age in the memory. So we
+// declare a variable like this; 'int age = 30'.So 'int' or integer is the type of this variable. In this variable, we
+// can only store integers which are whole numbers, like 1, 2, 3, 4. Numbers that don't have a decimal point.
 
+package com.learningzone;
 
+public class Main {
+
+    public static void main(String[] args) {
+        int age = 30;
+        System.out.println("Hello World");
+    }
+}
 
 
 
