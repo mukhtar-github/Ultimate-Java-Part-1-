@@ -1,5 +1,7 @@
 //  1-GETTING STARTED
+
 //  1- Setting Up the Development Environment
+
 // In this Java tutorial, we're going to download and install the necessary tools to build Java applications. So open up
 // your browser and search for JDK download. JDK is short for Java Development Kit, and it's basically software
 // development environment for building Java applications. It has a compiler, it has a bunch of code that we could reuse,
@@ -7,7 +9,10 @@
 // short for 'Java Standard Edition'. Now the next piece of software we need is a code editor. There are so many code
 // editors for building Java applications. The popular one are Netbeans, Eclipse and IntelliJ. In this Java course I'm
 // going to use IntelliJ.
+
+
 //  2- Anatomy of a Java Program
+
 // In this Java tutorial, we're going to look at the anatomy of Java programs. The smallest building block in Java
 // programs are functions. A function is a block of code that performs a task. As a metaphor, think of the buttons on the
 // remote control of your TV. Each button performs a task. Functions in programming languages are exactly the same. For
@@ -60,7 +65,10 @@
 // means the first letter of every word should be uppercase. In contrast, to name our methods, we use the camel naming
 // convention and that means the first letter of every word should be uppercase except the first word. So that is why we
 // a capital M in the name of this class.
+
+
 //  3- Your First Java Program
+
 // In this Java tutorial, you're going to learn how to write and execute your first Java program. So let's open up
 // IntelliJ IDEA. Here in the home screen, let's create a new project. On the left side, select Java and make sure
 // project SDK is not blank. Earlier we downloaded JDK or Java Development Kit, the latest version. So the latest version
@@ -123,7 +131,10 @@
 // 	    System.out.println("Hello World");
 //     }
 // }
+
+
 //  4- How Java Code Gets Executed
+
 // Alright, now let's see what's exactly happens under the hood, the moment we run a Java program in intelliJ. There are
 // basically two steps involved here; Compilation and Execution. In the Compilation step, intelliJ uses the Java compiler,
 // to compile our code into a different format called 'Java Byte Code'. This Java compiler comes with the Java development
@@ -217,7 +228,15 @@
 // 1- Introduction
 
 // In this section we're going to look at the fundamentals of programming in Java. You're going to learn about variable
-// and constants, primitive and reference types, you're going to learn about casting and
+// and constants, primitive and reference types, you're going to learn about casting or type conversion. You'll learn
+// how to work with numbers, strings, and arrays, and how to read input from the user. Once you learn all these, I'm
+// going to give you a project, you're going to build a mortgage calculator on your own. So make sure to pay great
+// attention to all the materials you're going to learn, because you're going to use most of them in this project.
+
+
+// 2- Variables
+
+// In this tutorial, we're going to talk about 
 
 
 
